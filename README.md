@@ -2,7 +2,7 @@
 
 ![main image](Images/image.png)
 
-# [ Check it out in more detail here !]()
+# [ Check it out in more detail here !](https://github.com/MahmoudBakri225/Al-sharkia-COVID-19-Interactive-Map-Advisory-System/blob/main/Al-Sharkia%20COVID-19%20Interactive%20Map%20%26%20Advisory%20Website..pdf)
 The dangers of the Corona epidemic threaten both human lives and national economies. Countries face numerous crises and challenges due to the spread of the virus, leading to a rise in infection rates and an increase in global mortality.
 
 So, what are the core problems we have identified? These challenges present opportunities for us to help.
